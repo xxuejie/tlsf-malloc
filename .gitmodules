@@ -1,0 +1,3 @@
+[submodule "tlsf"]
+	path = tlsf
+	url = https://github.com/mattconte/tlsf
